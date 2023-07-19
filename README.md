@@ -1,5 +1,5 @@
 <div>
-    <p align="center"><a href="https://github.com/Anas-Ouardi101"><img width="45%" height="300px" alt="Hello, I'm Anas. A full stack web developer" src="./assets/Anas Ouardi.png" /></a></p>
+    <p align="center"><a href="https://github.com/Anas-Ouardi101"><img width="45%" height="500px" alt="Hello, I'm Anas. A full stack web developer" src="./assets/Anas Ouardi.png" /></a></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
