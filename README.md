@@ -5,7 +5,7 @@
     </div>
     <br>
     <div align=center>
-        <a href="https://www.linkedin.com/in/anas-ouardi-7946b7260/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/anas-ouardi-7946b7260/" target="_blink"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <!-- <a href="https://bit.ly/3NbatW9"><img src="https://img.shields.io/badge/Youtube-My%20Youtube%20Channel-red" alt="Youtube" /></a> -->
         <!-- <a href="https://mahmoudanwar.com/"><img src="https://img.shields.io/badge/Website-My%20Website-blue" alt="My Website" /></a> -->
         <a href="mailto:Anas-Ouardi101@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
