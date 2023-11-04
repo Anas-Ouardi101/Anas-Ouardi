@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anasouardi101@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFbhfTgcEM/EOBKQWNGYYje0xeDL3eCsw/edit?utm_content=DAFbhfTgcEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbhfTgcEM/EOBKQWNGYYje0xeDL3eCsw/edit?utm_content=DAFbhfTgcEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://crimson-mabel-3.tiiny.site/ .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
