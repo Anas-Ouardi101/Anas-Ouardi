@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **anasouardi101@gmail.com**
 
-- 📄 Know about my experiences <a href="https://copper-caty-90.tiiny.site" target="blank"> My Resume . </a>
+- 📄 Know about my experiences <a href="https://copper-caty-90.tiiny.site" target="_blank"> My Resume . </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-ouardi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-ouardi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-ouardi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-ouardi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
