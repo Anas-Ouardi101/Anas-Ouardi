@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="./assets/R.gif"/>
+<img align="right" alt="Coding" height="50%" h src="./assets/R.gif"/>
 <h1 align="center">Hi 👋, I'm Anas Ouardi</h1>
 <h3 align="center">I am a Full Stack Web Developper from Morroco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
