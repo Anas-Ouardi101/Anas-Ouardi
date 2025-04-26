@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-ouardi101&label=Profile%20views&color=0e75b6&style=flat" alt="anas-ouardi101" /> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **ERP (Enterprise resource planning)**
 
-- 🌱 I’m currently learning **Next.js && tailwind css**
+- 🌱 I’m currently learning **Java && cybersecurity**
 
-- 👯 I’m looking to collaborate on **Node.js Project**
+- 👯 I’m looking to collaborate on **Laravel Project**
 
 - 💬 Ask me about **Laravel && MERN && PHP && JavaScript**
 
